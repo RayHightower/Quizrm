@@ -1,0 +1,7 @@
+Quizrm
+===
+
+A RubyMotion version of the Quiz app in the Big Nerd Ranch iOS
+Programming book.
+
+
