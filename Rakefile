@@ -11,4 +11,5 @@ Motion::Project::App.setup do |app|
   app.device_family = :iphone
   app.icons << 'icon.png'
   app.icons << 'icon@2x.png'
+  app.launch_image << 'launch.png'
 end
